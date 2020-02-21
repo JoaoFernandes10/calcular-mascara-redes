@@ -1,0 +1,22 @@
+.hidden{display: none;}
+
+#info>span{
+	border: solid 1px #C9C8C9;
+	display: inherit;
+	width: 125px;
+	margin-bottom: 1px;
+}
+#val>span{
+	border: solid 1px #C9C8C9;
+	display: inherit;
+	width: 125px;
+	margin-bottom: 1px;
+}
+#info{
+	float: left;
+	margin-right: 2px;
+}
+#val{
+	float: left;
+	left: 129px;
+}
