@@ -1,7 +1,7 @@
 <?php
 require_once 'se_guran_ca/ph-p/funcoes.php';
 try{
-	$pdo = new PDO('mysql:host=localhost;dbname=cgr','usuario','senha');
+	$pdo = new PDO('mysql:host=localhost;dbname=cgrinfo','usuario','senha');
 }catch (PDOException $ex){
 	echo $ex->getMessage();
 }
