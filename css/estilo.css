@@ -3,14 +3,17 @@
 #info>span{
 	border: solid 1px #C9C8C9;
 	display: inherit;
-	width: 125px;
+	width: 150px;
+	height: 20px;
 	margin-bottom: 1px;
 }
 #val>span{
 	border: solid 1px #C9C8C9;
 	display: inherit;
-	width: 125px;
+	width: 150px;
+	height: 20px;
 	margin-bottom: 1px;
+	text-align: center;
 }
 #info{
 	float: left;
@@ -19,4 +22,11 @@
 #val{
 	float: left;
 	left: 129px;
+	width:200px ;
+	height: 80px;
+	text-align: center;
+}
+#res{
+	width: 355px;
+	margin: 0 auto;
 }
