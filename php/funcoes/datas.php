@@ -155,5 +155,5 @@ function mascara_ip($cidr){
 function ip_mascara($ip_inicio,$ip_final){
 	
 }
-print_r(mascara_hosts(1));
+
 
